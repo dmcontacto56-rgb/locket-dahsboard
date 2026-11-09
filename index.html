@@ -5,10 +5,10 @@
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
 <title>Locket · Plan digital 30/60/90</title>
 <link href="https://fonts.googleapis.com/css2?family=Barlow+Condensed:ital,wght@1,800&family=Barlow:wght@400;500;600;700&display=swap" rel="stylesheet">
-<link rel="stylesheet" href="css/styles.css">
+<link rel="stylesheet" href="styles.css">
 </head>
 <body>
-<header class="nav"><div class="logo"><img src="assets/logo.png" alt="Locket Heavy Duty"></div><nav id="tabs"></nav><button id="th" type="button">Tema</button></header>
+<header class="nav"><div class="logo"><img src="https://raw.githubusercontent.com/dmcontacto56-rgb/locket-dahsboard/7315d2743f42e228e8ab75d7ebf397f71c319d42/logo.png" alt="Locket Heavy Duty" onerror="this.onerror=null;this.src='logo.png'"></div><nav id="tabs"></nav><button id="th" type="button">Tema</button></header>
 <main>
 
 <section id="resumen" data-t="Resumen">
@@ -29,9 +29,12 @@
 
 <section id="competencia" data-t="Competencia">
 <h2>Competencia</h2><p class="lead">Locket gana en envío (umbral bajo y entrega el mismo día en CDMX). Pierde en señales B2B, confianza visible y meses sin intereses.</p>
+<h3>Marcas que maneja Locket</h3><div class="flow" id="mk"></div><p class="note" id="mkn"></p>
 <h3>Directa: tiendas de refacciones pesadas con envío nacional</h3><div class="tw" id="cd"></div>
+<h3>Marcas: Locket frente a la competencia directa</h3><div class="tw" id="mc"></div><p class="note" id="mcn"></p>
 <h3>Indirecta</h3><div class="tw" id="ci"></div>
-<p class="note">Fuente: páginas públicas consultadas en noviembre de 2026. Sin datos de tráfico; confirmar con Semrush.</p>
+<h3>Tiendas físicas en CDMX: zona norte y zona sur</h3><div class="tw" id="cf"></div>
+<p class="note" id="cn"></p>
 </section>
 
 <section id="estrategia" data-t="Estrategia">
@@ -55,24 +58,17 @@
 </section>
 
 <section id="kpis" data-t="KPIs y simulador">
-<h2>Scorecard</h2><p class="lead">Línea base por medir en las semanas 1 y 2. La columna de referencia externa es contexto, no meta.</p>
+<h2>Scorecard</h2><p class="lead">Línea base por medir en las semanas 1 y 2. La columna de referencia externa es contexto, no meta, y usa solo datos de México.</p>
 <div class="tw" id="kp"></div>
-<div class="box"><h3>Referencias externas (contexto)</h3><ul id="rf"></ul><p class="note">No encontré un benchmark público confiable para refacciones pesadas en México.</p></div>
+<div class="box"><h3>Referencias externas en México (contexto)</h3><ul id="rf"></ul><p class="note" id="rfn"></p></div>
 <h2>Simulador de sensibilidad</h2>
 <p class="lead">Ejemplo ilustrativo con supuestos editables. No son datos de Locket: reemplázalos con la línea base real.</p>
-<div class="box"><div class="sm">
-<div><label for="ses">Sesiones al mes</label><input id="ses" type="number" value="10000" min="0"></div>
-<div><label for="cvr">Conversión (%)</label><input id="cvr" type="number" value="1.2" step="0.1" min="0"></div>
-<div><label for="aov">Ticket (MXN)</label><input id="aov" type="number" value="1500" min="0"></div>
-<div><label for="abn">Abandono (%)</label><input id="abn" type="number" value="70" min="0" max="95"></div>
-<div><label for="rec">Recuperado (%)</label><input id="rec" type="number" value="5" step="0.5" min="0"></div>
-<div><label for="mej">Mejora de conversión (%)</label><input id="mej" type="number" value="25" min="0"></div>
-</div>
+<div class="box"><div class="sm in" id="sin"></div>
 <p style="margin:12px 0 4px"><button class="bt" data-s="10,3">Conservador</button><button class="bt" data-s="25,5">Base</button><button class="bt" data-s="40,8">Ambicioso</button></p>
 <div class="sm" style="margin-top:8px"><div><label>Ingresos sin plan</label><div class="big" id="o1"></div><div class="bar"><i id="b1"></i></div></div><div><label>Ingresos con plan</label><div class="big" id="o2"></div><div class="bar p"><i id="b2"></i></div></div><div><label>Diferencia mensual</label><div class="big" id="o3"></div></div></div>
 <p class="note">Ingresos = sesiones × conversión × ticket, más pedidos recuperados de carritos abandonados. Escenarios de sensibilidad, no pronóstico.</p></div>
 </section>
 </main>
-<script src="js/app.js" defer></script>
+<script src="script.js"></script>
 </body>
 </html>
