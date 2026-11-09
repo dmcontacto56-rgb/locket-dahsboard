@@ -1,0 +1,470 @@
+{
+ "diagnostico": [
+  [
+   "A",
+   "El catálogo gratuito no descarga",
+   "El botón “Descargar” apunta a la propia página de inicio. Conviértelo en un formulario (correo o WhatsApp) que alimente el CRM."
+  ],
+  [
+   "A",
+   "Posicionamiento mezclado",
+   "El título dice “tractocamiones”, pero el primer carrusel de más vendidos es Motul para auto. Define el foco pesado y deja la línea ligera como secundaria."
+  ],
+  [
+   "A",
+   "Búsqueda sin número de parte visible",
+   "“Elige tu vehículo” solo ofrece Carga y Transporte. Prueba el buscador con 20 números de parte reales y mide las búsquedas sin resultados."
+  ],
+  [
+   "M",
+   "Poca confianza visible",
+   "No vi reseñas, teléfono ni WhatsApp en la home (pueden cargarse con JavaScript; por confirmar)."
+  ],
+  [
+   "M",
+   "Pagos limitados",
+   "Visibles: Visa, Mastercard, OXXO y SPEI. Sin meses sin intereses ni crédito para flotillas; en Mercado Libre sí hay meses sin intereses."
+  ],
+  [
+   "M",
+   "Perfil de Empresa en Google",
+   "Optimiza categorías, fotos y un enlace con UTM hacia Shopify para aprovechar la entrega el mismo día en CDMX."
+  ],
+  [
+   "R",
+   "Agotados en “Más vendidos”",
+   "Un producto agotado aparece en el carrusel. Quítalo o refuerza “Avísame”, y no lo pautes."
+  ],
+  [
+   "R",
+   "Precios duplicados",
+   "“Precio habitual” y “Precio de oferta” muestran lo mismo cuando no hay descuento. Es un ajuste de plantilla."
+  ],
+  [
+   "R",
+   "SEO básico",
+   "Título genérico y sin acentos, “Camáras” mal escrito en el menú, banners sin texto alternativo y marcas de la meta descripción (Wabco, SKF) ausentes del carrusel."
+  ]
+ ],
+ "competencia": {
+  "marcasLocket": [
+   "ATSA",
+   "Bendix",
+   "Dayco",
+   "Fleetguard",
+   "Haldex",
+   "Mann-Filter",
+   "Sealco",
+   "SKF",
+   "Sirco",
+   "TRANStec",
+   "Tramec",
+   "USK",
+   "WABCO",
+   "WIX",
+   "Yumak",
+   "Locket (marca propia)",
+   "Motul (aceites)"
+  ],
+  "marcasNota": "Fuente: menú “Marcas” y colecciones de locket.com.mx, consultados en noviembre de 2026. Locket fabrica o comercializa bajo su propia marca válvulas, cámaras, ajustadores, mangueras y herrajes para frenos de aire (aresco.com.mx).",
+  "directa": {
+   "h": [
+    "Competidor",
+    "Marcas que maneja",
+    "Lectura para Locket"
+   ],
+   "r": [
+    [
+     "Bpartes",
+     "Gobernador D-2 Bendix OR275491, el mismo que vende Locket. El resto de su catálogo por verificar.",
+     "Tienda en línea especializada en camiones y tractocamiones con entrega nacional."
+    ],
+    [
+     "Diesel México",
+     "Por verificar en su catálogo.",
+     "Envío gratis desde $3,000; Locket lo ofrece desde $800."
+    ],
+    [
+     "El Camionero",
+     "Por verificar en su catálogo.",
+     "Más de 5,000 refacciones, precios y atención por WhatsApp para flotillas. Referente B2B."
+    ],
+    [
+     "Go Trakto",
+     "Meritor, Gabriel (amortiguadores), Donaldson (filtros), National Oil Seals (retenes), Trogrim (refacciones), Surtek y Urrea (herramientas), Panesa (reparación de llantas) y Sika (selladores).",
+     "Multimarca en Teoloyucan, Edo. Méx., con cotización. El más cercano a CDMX. En lo consultado no comparte marcas con Locket; compite en filtros (Donaldson contra Mann-Filter, WIX y Fleetguard) y tiene herramienta y suspensión que Locket no ofrece."
+    ],
+    [
+     "Repuestos y Frenos (Tractopartes)",
+     "Bendix, SKF, Haldex, USK, ATSA, Mann-Filter y WIX, además de Meritor, Firestone, Goodyear, Sampa, TSP, Gonher y otras.",
+     "El que más se parece a Locket: comparte 7 de sus 15 marcas de terceros. Declara cobertura en Nuevo León, Coahuila, Tamaulipas, Veracruz, San Luis Potosí, Durango, Zacatecas, Guanajuato, Aguascalientes y CDMX."
+    ],
+    [
+     "Refaccionaria Guerra Diesel",
+     "Por verificar en su catálogo.",
+     "Envío nacional y páginas por SKU con aviso de compatibilidad."
+    ],
+    [
+     "JOHESA",
+     "Especialista en suspensión de aire y frenos; herramientas para llantera y equipo pesado. No pude leer su lista de marcas.",
+     "Guadalajara, mayoreo y menudeo; envío a todo México."
+    ]
+   ]
+  },
+  "comparativo": {
+   "h": [
+    "Competidor",
+    "Marcas en común con Locket",
+    "Marcas que Locket no maneja"
+   ],
+   "r": [
+    [
+     "Repuestos y Frenos (Tractopartes)",
+     "Bendix, SKF, Haldex, USK, ATSA, Mann-Filter y WIX (7 de 15).",
+     "Meritor, Firestone, Goodyear, Sampa, TSP, Gonher, Buffalo, Tambormex y otras de frenos y tren motriz."
+    ],
+    [
+     "Go Trakto",
+     "Ninguna en lo consultado.",
+     "Meritor, Gabriel, Donaldson, National Oil Seals, Trogrim, Surtek, Urrea, Panesa y Sika."
+    ],
+    [
+     "Bpartes",
+     "Bendix (el gobernador D-2).",
+     "Por verificar."
+    ]
+   ],
+   "nota": "Marcas de Locket que no aparecieron en los listados consultados de ninguno de los dos: su marca propia, Fleetguard, Dayco, Sealco, Sirco, TRANStec, Tramec, Yumak y WABCO (el listado de Repuestos y Frenos estaba cortado: confirmarlo). La brecha más clara es Meritor, presente en ambos, además de amortiguadores y suspensión."
+  },
+  "indirecta": {
+   "h": [
+    "Competidor",
+    "Lectura para Locket"
+   ],
+   "r": [
+    [
+     "Mercado Libre",
+     "Presiona el precio: un gobernador D-2 “tipo Bendix” va de unos $400 a unos $920 según el vendedor, con envío gratis y meses sin intereses. Locket también vende ahí."
+    ],
+    [
+     "Grupo DAR / SYD",
+     "Mayorista de suspensión y dirección fundado en CDMX en 1966. Compite en línea ligera y es canal B2B de talleres."
+    ],
+    [
+     "AutoZone y MiRefacción",
+     "Cadenas de línea ligera. AutoZone llegó a 1,000 tiendas en México; MiRefacción permite pedir en línea y recoger en tienda."
+    ],
+    [
+     "Marcas y agencias",
+     "Nissan con tienda oficial en Amazon México y Mercedes-Benz Autobuses con línea de refacciones originales."
+    ]
+   ]
+  },
+  "fisicas": {
+   "h": [
+    "Zona",
+    "Competidor",
+    "Qué maneja",
+    "Lectura para Locket"
+   ],
+   "r": [
+    [
+     "Norte",
+     "Promare (Gustavo A. Madero)",
+     "Líneas de refacciones originales para tractocamiones y autobuses, más Muncie Power, Custom Hoist, Mix y Emco Wheaton (según su carta de presentación, antigua).",
+     "Distribuidor con sucursales en el país. Verificar si sigue activo y su dirección actual."
+    ],
+    [
+     "Norte",
+     "Balatas Internacionales (Gustavo A. Madero)",
+     "Marcas por verificar.",
+     "Dato de directorio o antiguo: confirmar en Google Maps."
+    ],
+    [
+     "Norte",
+     "Tracto Ceylán (Tlalnepantla, Edo. Méx.)",
+     "Más de 35 años; frenos, suspensión, transmisiones, filtros, lubricantes, motores e iluminación. No publica sus marcas.",
+     "Compite en frenos y filtros con asesoría técnica por modelo, año y motor."
+    ],
+    [
+     "Norte",
+     "Alliance Parts (Daimler Truck México), Tultitlán",
+     "Refacciones de Freightliner y otras marcas del grupo; tienda de 1,300 m² (dato de 2023).",
+     "Respaldo de fabricante y garantía; apunta a flotas con unidades de hasta 15 años."
+    ],
+    [
+     "Sur",
+     "Indelmex (Tlalpan, Av. México-Ajusco)",
+     "Hules automotrices y de equipo pesado. Marcas por confirmar.",
+     "Compite en hules, no en frenos de aire. Confirmar su catálogo."
+    ],
+    [
+     "Sur",
+     "Refacciones Diesel El Gato (Tlalpan)",
+     "Aparece en directorio de refaccionarias diésel. Sin sitio ni catálogo verificado.",
+     "Confirmar marcas con una visita o llamada."
+    ],
+    [
+     "Sur",
+     "Tracto Partes y Refacciones Diesel González (Tláhuac)",
+     "Aparece en directorio. Sin sitio ni catálogo verificado.",
+     "Confirmar marcas con una visita o llamada."
+    ],
+    [
+     "Sur",
+     "AutoZone y Refaccionaria California (Tláhuac y Tlalpan)",
+     "Línea ligera.",
+     "Compiten solo en aceites y filtros de equipo ligero."
+    ]
+   ]
+  },
+  "nota": "Fuente: páginas públicas y directorios consultados en noviembre de 2026. Sin datos de tráfico; confirmar con Semrush. Las marcas de la competencia son las que publican en sus sitios: no aparecer en la lista no significa que no la manejen. Zona sur: Tlalpan, Tláhuac, Xochimilco y Coyoacán. Los datos de directorio pueden estar desactualizados: verificar en Google Maps."
+ },
+ "plan": [
+  [
+   "Mes 1: Fundación",
+   [
+    "Semana 1: pedir accesos (Shopify, GA4, Search Console, Merchant Center, anuncios, Mercado Libre, inventario). Antes de cambiar nada: duplicar el tema de Shopify (una copia de la plantilla visual para probar sin tocar la tienda en vivo) y guardar un respaldo en CSV de productos, clientes y pedidos. Después instalar GA4, Tag Manager y Clarity.",
+    "Semana 2: botón del catálogo, precios duplicados, agotados y SEO básico.",
+    "Semanas 3 y 4: línea base de 10 KPIs, prueba del buscador con 20 números de parte y botón de WhatsApp con UTM.",
+    "Día 30: metas de resultado definidas con la línea base."
+   ]
+  ],
+  [
+   "Mes 2: Activación",
+   [
+    "Flujo de carritos abandonados y aviso “avísame”.",
+    "Reseñas y compatibilidad visibles en las fichas.",
+    "Primeras piezas de contenido B2B y B2C; Perfil de Empresa en Google.",
+    "Monitoreo semanal de 30 a 50 números de parte en 2 o 3 competidores."
+   ]
+  ],
+  [
+   "Mes 3: Optimización",
+   [
+    "Embudo de WhatsApp con etapas en CRM y motivos de pérdida.",
+    "Sección para flotillas: cotización y crédito.",
+    "Automatizaciones con Shopify Flow (Make o n8n si hace falta).",
+    "Prueba A/B y reporte contra las metas del día 30."
+   ]
+  ]
+ ],
+ "herramientas": {
+  "h": [
+   "Capa",
+   "Herramienta",
+   "Rol",
+   "Cuándo",
+   "Costo"
+  ],
+  "r": [
+   [
+    "Seguridad (copia de respaldo)",
+    "Duplicar el tema de Shopify y exportar un respaldo de la tienda",
+    "Duplicar el tema es hacer una copia de la plantilla visual para probar cambios sin afectar la tienda en vivo. El respaldo es exportar productos, clientes y pedidos en CSV. Si un cambio rompe algo, se vuelve a la copia o se restauran los datos.",
+    "Día 1",
+    "Gratis (funciones propias de Shopify)"
+   ],
+   [
+    "Medición",
+    "GA4, Tag Manager, Search Console, Merchant Center, Clarity",
+    "Línea base y comportamiento",
+    "Semana 1",
+    "Gratis"
+   ],
+   [
+    "Reportes",
+    "Looker Studio y Sheets",
+    "Dashboard semanal",
+    "Mes 1",
+    "Gratis"
+   ],
+   [
+    "SEO",
+    "Semrush, Screaming Frog",
+    "Posiciones, brechas y auditoría",
+    "Mes 1",
+    "Pago / gratis hasta 500 URLs"
+   ],
+   [
+    "Catálogo",
+    "Matrixify, Search & Discovery, app de compatibilidad",
+    "Cargas masivas, filtros y sinónimos",
+    "Mes 1 a 2",
+    "Mixto"
+   ],
+   [
+    "Conversión",
+    "App de reseñas, botón de WhatsApp",
+    "Confianza visible",
+    "Mes 1 a 2",
+    "Pago"
+   ],
+   [
+    "Correo",
+    "Shopify Email, luego Klaviyo",
+    "Carritos y recompra",
+    "Mes 2",
+    "Mixto"
+   ],
+   [
+    "CRM",
+    "HubSpot gratuito",
+    "Leads y cotizaciones B2B",
+    "Mes 2",
+    "Gratis"
+   ],
+   [
+    "Automatización",
+    "Shopify Flow; Make o n8n (uno solo)",
+    "Alertas y sincronía de inventario",
+    "Mes 2 a 3",
+    "Mixto"
+   ],
+   [
+    "Creativo",
+    "Adobe CC o Figma, Canva, CapCut",
+    "Banners, fichas y redes",
+    "Continuo",
+    "Pago"
+   ]
+  ]
+ },
+ "kpis": {
+  "h": [
+   "KPI",
+   "Se mide con",
+   "Línea base",
+   "Referencia externa en México (no es meta)",
+   "Meta"
+  ],
+  "r": [
+   [
+    "Sesiones y % orgánico",
+    "GA4 y Search Console",
+    "Por medir",
+    "—",
+    "Se define al día 30"
+   ],
+   [
+    "Conversión",
+    "GA4 y Shopify",
+    "Por medir",
+    "~1.31% promedio del e-commerce en México (NubeCommerce México 2026; confiabilidad media, no es específico de refacciones)",
+    "Se define al día 30"
+   ],
+   [
+    "Ticket promedio",
+    "Shopify",
+    "Por medir",
+    "—",
+    "Se define al día 30"
+   ],
+   [
+    "Abandono de checkout",
+    "Shopify",
+    "Por medir",
+    "~70% en México (NubeCommerce México 2026). Una ponente en una conferencia citó 84 de cada 100 carritos (confiabilidad baja)",
+    "Se define al día 30"
+   ],
+   [
+    "Recuperación de carritos",
+    "Shopify y Klaviyo",
+    "Por medir",
+    "Sin cifra pública confiable para México",
+    "Flujo activo en el mes 2"
+   ],
+   [
+    "Leads de WhatsApp y primera respuesta",
+    "WhatsApp y CRM",
+    "Por medir",
+    "—",
+    "Embudo medido en el mes 3"
+   ],
+   [
+    "Búsquedas sin resultados",
+    "Shopify Search",
+    "Por medir",
+    "—",
+    "Se define al día 30"
+   ],
+   [
+    "Disponibilidad de SKU top",
+    "Shopify e inventario",
+    "Por medir",
+    "—",
+    "Se define al día 30"
+   ],
+   [
+    "Posiciones top 10 (20 a 30 palabras)",
+    "Semrush",
+    "Por medir",
+    "—",
+    "Se define al día 30"
+   ],
+   [
+    "Velocidad móvil",
+    "PageSpeed Insights",
+    "Por medir",
+    "—",
+    "Se define al día 30"
+   ]
+  ]
+ },
+ "referencias": [
+  "E-commerce retail en México: 941 mil millones de pesos en 2025, +19.2% (AMVO 2026). Confiabilidad alta.",
+  "Autopartes: cerca de 25% de las compras de refacciones se hace en línea; devoluciones de 8% frente a 23% del e-commerce general (Publimetro 2025). Confiabilidad media.",
+  "Conversión promedio del e-commerce en México: 1.31% (informe NubeCommerce México 2026, de Tiendanube, citado por Merca2.0). Confiabilidad media: sale de tiendas de esa plataforma, no de refacciones pesadas.",
+  "Abandono de carrito en México: cerca de 70% (NubeCommerce México 2026). Otra cifra, dicha en una conferencia sobre e-commerce, es 84 de cada 100 carritos. Confiabilidad media a baja.",
+  "43% de los compradores mexicanos abandona el carrito si la entrega estimada supera tres días (NubeCommerce México 2026). Útil para la entrega el mismo día de Locket en CDMX. Confiabilidad media.",
+  "WhatsApp: el Inegi atribuye parte del crecimiento de 2024 del comercio minorista en línea al comercio social. Confiabilidad alta."
+ ],
+ "referenciasNota": "No encontré un benchmark público confiable para refacciones pesadas en México. Todas las referencias son de México; quité las cifras de EE. UU. y globales.",
+ "simulador": [
+  {
+   "id": "ses",
+   "t": "Sesiones al mes",
+   "k": "Sesiones y % orgánico",
+   "v": 10000,
+   "min": 0
+  },
+  {
+   "id": "cvr",
+   "t": "Conversión (%)",
+   "k": "Conversión",
+   "v": 1.2,
+   "step": 0.1,
+   "min": 0
+  },
+  {
+   "id": "aov",
+   "t": "Ticket (MXN)",
+   "k": "Ticket promedio",
+   "v": 1500,
+   "min": 0
+  },
+  {
+   "id": "abn",
+   "t": "Abandono (%)",
+   "k": "Abandono de checkout",
+   "v": 70,
+   "min": 0,
+   "max": 95
+  },
+  {
+   "id": "rec",
+   "t": "Recuperado (%)",
+   "k": "Recuperación de carritos",
+   "v": 5,
+   "step": 0.5,
+   "min": 0
+  },
+  {
+   "id": "mej",
+   "t": "Mejora de conversión (%)",
+   "k": "Conversión",
+   "v": 25,
+   "min": 0
+  }
+ ]
+}
