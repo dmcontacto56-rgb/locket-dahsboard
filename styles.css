@@ -1,4 +1,3 @@
-/* Locket · Plan digital 30/60/90 — estilos */
 :root{--bg:#F9F7F6;--cd:#fff;--ink:#0B1633;--tx:#33405F;--mu:#5B6785;--bd:#D9DEEC;--or:#F26632;--bl:#1B3F95;--ac:#1B3F95;--nv:rgba(249,247,246,.96);color-scheme:light;box-sizing:border-box;padding-top:env(safe-area-inset-top,0px);padding-bottom:env(safe-area-inset-bottom,0px)}
 @media(prefers-color-scheme:dark){:root:not([data-theme="light"]){--bg:#0B1633;--cd:#121F45;--ink:#F9F7F6;--tx:#CBD3EA;--mu:#8D9BC2;--bd:#243263;--ac:#8FAEF7;--nv:rgba(11,22,51,.96);color-scheme:dark}}
 :root[data-theme="dark"]{--bg:#0B1633;--cd:#121F45;--ink:#F9F7F6;--tx:#CBD3EA;--mu:#8D9BC2;--bd:#243263;--ac:#8FAEF7;--nv:rgba(11,22,51,.96);color-scheme:dark}
@@ -44,3 +43,5 @@ input{width:100%;padding:8px;border:1px solid var(--bd);border-radius:4px;backgr
 .big{font:italic 800 32px "Barlow Condensed","Arial Narrow",Arial,sans-serif;color:var(--ink)}
 .bar{height:10px;background:var(--bd);border-radius:2px;overflow:hidden;margin-top:6px}.bar i{display:block;height:100%;background:var(--bl)}.bar.p i{background:var(--or)}
 @media(max-width:640px){.hero{padding-right:calc(16% + 14px)}.hero::after{width:14%;right:-20px}}
+.sm.in>div{display:flex;flex-direction:column;justify-content:flex-end}
+.err{background:var(--cd);border:1px solid var(--or);border-left:4px solid var(--or);border-radius:4px;padding:14px 16px;margin:18px auto;max-width:1080px}
