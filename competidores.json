@@ -1,0 +1,7 @@
+[
+  {
+    "nombre": "EJEMPLO-Competidor-1",
+    "url_busqueda": "https://SITIO-COMPETIDOR.com/search?q={parte}",
+    "selector_precio": ".price"
+  }
+]
